@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Angel\\Desktop\\net2c6\\Upesnet2\\Micro_Invoices\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E8C44A0-BFA0-41D0-8069-285736F507D1}|src\\Domain\\Domain.csproj|c:\\users\\angel\\desktop\\net2c6\\upesnet2\\micro_invoices\\src\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E8C44A0-BFA0-41D0-8069-285736F507D1}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\net2c6\\Upesnet2\\Micro_Invoices\\src\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\net2c6\\Upesnet2\\Micro_Invoices\\src\\Domain\\Class1.cs",
+              "RelativeToolTip": "src\\Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T12:14:49.029Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

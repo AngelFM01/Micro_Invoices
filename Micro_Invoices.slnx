@@ -1,1 +1,9 @@
-<Solution />
+<Solution>
+  <Folder Name="/A.Domain/">
+    <Project Path="src/Domain/Domain.csproj" Id="5e8c44a0-bfa0-41d0-8069-285736f507d1" />
+  </Folder>
+  <Folder Name="/B.Core/" />
+  <Folder Name="/C.Externals/" />
+  <Folder Name="/D.Persistence/" />
+  <Folder Name="/E.Api/" />
+</Solution>
